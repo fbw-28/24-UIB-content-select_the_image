@@ -1,0 +1,21 @@
+main {
+    margin: 30px;
+  }
+  
+  img {
+    height: 100px;
+  }
+  
+  h3 {color:blue}
+  
+  .three {color: red}
+  
+  .img { border: 1px solid violet;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;}
+  
+  #com {background-color: yellow;}
+  
+  .four {color: red}
+  

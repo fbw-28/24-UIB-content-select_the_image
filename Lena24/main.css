@@ -1,0 +1,32 @@
+  main {
+    margin: 30px;
+  }
+
+  img {
+    height: 100px;
+  }
+
+  /* Task 1 */
+  h3 {
+    color: blue;
+  }
+
+  /* Task 2 */
+  .red {
+    color: red;
+  }
+
+  /* Task 3 */
+  img+img {
+    border: 5px solid purple;
+  }
+
+  /* Task 4 */
+  a[href$=".com"] {
+    background-color: yellow;
+  }
+
+  /* Task 5 */
+  #task5 {
+    color: rgb(226, 84, 107);
+  }

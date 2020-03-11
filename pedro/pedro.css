@@ -1,0 +1,40 @@
+main {
+    margin: 30px;
+  }
+  
+  img {
+    height: 100px;
+  }
+
+  #color {
+
+    color: blue;
+  }
+
+  .task2 {
+
+    color: red;
+  }
+
+  img ~ img {
+
+    border:solid thick black;
+  }
+
+  a[target ="#3"] {
+    background-color: yellow;
+  }
+  
+  #task5 {
+
+    color: brown;
+  }
+  /* Task 1 */
+  
+  /* Task 2 */
+  
+  /* Task 3 */
+  
+  /* Task 4 */
+  
+  /* Task 5 */

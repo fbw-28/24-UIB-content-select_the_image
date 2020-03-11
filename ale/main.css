@@ -1,0 +1,31 @@
+  main {
+    margin: 30px;
+  }
+  
+  img {
+    height: 100px;
+  }
+
+  h3 {
+    color: blue;
+  }
+
+  .red {
+    color: red;
+    font-weight: bold;
+  }
+
+  div + p {
+    border: solid;
+  }
+
+  #yellow{
+    background-color: yellow;
+  }
+
+#this{
+  color: red;
+}
+
+
+ 

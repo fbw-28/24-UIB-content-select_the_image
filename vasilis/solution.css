@@ -1,0 +1,28 @@
+main {
+    margin: 30px;
+  }
+  
+  img {
+    height: 100px;
+  }
+  
+  /* Task 1 */
+  h3 {
+      color: blue;
+  }
+  /* Task 2 */
+  .red {
+      color: red;
+  }
+  /* Task 3 */
+  img + img {
+      border: solid thick blueviolet;
+  }
+  /* Task 4 */
+  a[href="www.example.com"] {
+      background-color: yellow;
+  }
+  /* Task 5 */
+  #this {
+      color: magenta;
+  }

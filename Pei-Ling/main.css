@@ -1,0 +1,32 @@
+  main {
+    margin: 30px;
+  }
+  
+  img {
+    height: 100px;
+  }
+  
+  /* Task 1 */
+  h3 {
+    color: blue;
+    
+  }
+  /* Task 2 */
+  .red {
+    color: red;
+  }
+  
+  /* Task 3 */
+  .border {
+    border: solid 15px;
+    border-color: rgb(160, 118, 42);
+  }
+  /* Task 4 */
+  #URL{
+    background-color: yellow;
+  }
+  
+  /* Task 5 */
+  #T5 {
+    color: deeppink;
+  }
